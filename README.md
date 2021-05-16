@@ -6,6 +6,7 @@ The Purpose of this analysis was to help W.Avy open up a surf shop. The informat
 * The Temps for June and December are great and almost similar. June’s temps are hotter than December is a bit warmer. 
 * These months will be great for opening a surf shop and ice cream shop. 
 * There is also more data temperature for June than December. The count is higher for June (1700), December (1517). 
+
 ![June_Temps.PNG](https://github.com/gabby338414/Surfs_up/blob/8bc7879bf3cfc4a69c2f21e1015287bef5193e0b/June_Temps.PNG)
 
 ![Dec_Temps.PNG](https://github.com/gabby338414/Surfs_up/blob/2163488db963b89ea59556d626ac0cf3197f8360/Dec_Temps.PNG)
