@@ -1,4 +1,4 @@
-# Surf-s_Up
+# Surfs_Up
 ## Overview of the analysis: Explain the purpose of this analysis. 
 The Purpose of this analysis was to help W.Avy open up a surf shop. The information provided shows the Seasonal weather tempatures for the months of June and December.
 
